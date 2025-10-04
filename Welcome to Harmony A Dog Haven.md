@@ -8,7 +8,7 @@ You can visit the live website prototype here: [[scope.md|Harmony Haven Website]
 
 Inside this repo, you’ll find:
 - A `docs/` folder with the scope statement, project plan, and retrospective
-- The homepage (`index.html`) and second page (`dogs.html`)
+- The homepage (`index.html`) and second page (`adopt.html`)
 - A single stylesheet (`style.css`) that styles both pages
 
 Thanks for checking it out!
